@@ -30,7 +30,7 @@ O sistema precisa de um programa chamado **Node.js** para rodar.
 
 ### 3. Inicie o Sistema
 * Dentro da pasta onde estão os arquivos, procure por um arquivo chamado **`INICIAR.bat`** e dê um duplo clique para executá-lo.
-* Uma tela preta aparecerá com a mensagem de inicialização do servidor (por exemplo: `✅ Banco de dados SQLite conectado!`). **Não feche essa tela enquanto estiver usando o sistema.**
+* Uma tela preta aparecerá com a mensagem de inicialização do servidor. **Não feche essa tela enquanto estiver usando o sistema.**
 
 ### 4. Abra o Diário
 * Agora, basta abrir o arquivo **`index.html`** no seu navegador (Chrome, Edge ou Firefox).
@@ -78,7 +78,7 @@ Desenvolvido por **Aniel Nascimento** — *Estudante de Análise e Desenvolvimen
 
 ### 💡 Dica Bônus: O arquivo `INICIAR.bat`
 
-Para os professores que não sabem abrir o terminal, o arquivo de "atalho" já pode acompanhar o projeto; se precisar recriar, use o modelo abaixo:
+Para os professores que não sabem abrir o terminal, o arquivo de "atalho" já acompanha o projeto. Se ele for apagado por engano e você precisar recriar, use o modelo abaixo:
 
 1.  Abra o Bloco de Notas.
 2.  Cole o seguinte código:
