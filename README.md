@@ -72,7 +72,7 @@ O sistema já vem configurado para ignorar os feriados nacionais e o feriado est
 ---
 
 ## 🎓 Créditos
-Desenvolvido por **Aniel Nascimento** *Estudante de Análise e Desenvolvimento de Sistemas*
+Desenvolvido por **Aniel Nascimento** — *Estudante de Análise e Desenvolvimento de Sistemas*
 
 ---
 
