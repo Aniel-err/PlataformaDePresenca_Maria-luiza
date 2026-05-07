@@ -78,7 +78,7 @@ Desenvolvido por **Aniel Nascimento** — *Estudante de Análise e Desenvolvimen
 
 ### 💡 Dica Bônus: O arquivo `INICIAR.bat`
 
-Para os professores que não sabem abrir o terminal, você pode facilitar a vida deles criando um arquivo de "atalho" que liga o servidor sozinho.
+Para os professores que não sabem abrir o terminal, o arquivo de "atalho" já pode acompanhar o projeto; se precisar recriar, use o modelo abaixo:
 
 1.  Abra o Bloco de Notas.
 2.  Cole o seguinte código:
