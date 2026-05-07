@@ -8,7 +8,7 @@
 
 * ✅ **Chamada Ultra-Rápida:** Clique esquerdo para `Presente/Falta` e clique direito para `Justificada/Limpar`.
 * 📊 **Estatísticas em Tempo Real:** Calcula automaticamente o total de dias, faltas, presenças e a porcentagem de frequência de cada aluno.
-* 📅 **Calendário Inteligente:** Identifica automaticamente finais de semana e feriados (Nacionais e do Maranhão), bloqueando essas datas e ajustando os cálculos letivos.
+* 📅 **Calendário Inteligente:** Identifica automaticamente finais de semana e feriados (nacionais e do Maranhão), bloqueando essas datas e ajustando os cálculos letivos.
 * 🏷️ **Etiquetas Personalizadas (Tags):** Identifique alunos com necessidades especiais ou de outras turmas usando etiquetas coloridas (ex: "Parcial", "Sala E").
 * 🔤 **Organização Automática:** Alunos organizados por ordem alfabética e numerados automaticamente.
 * 💾 **Banco de Dados Local:** Não precisa de internet para funcionar; os dados ficam salvos de forma segura no seu computador.
@@ -67,7 +67,7 @@ Para tornar a chamada rápida, o sistema utiliza o mouse de forma inteligente:
 ---
 
 ## 📅 Feriados Maranhenses Incluídos
-O sistema já vem configurado para ignorar os feriados nacionais e o feriado estadual da **Adesão do Maranhão (28 de julho)**, garantindo que os dias letivos não sejam contabilizados erroneamente nessas datas.
+O sistema já vem configurado para ignorar os feriados nacionais e o feriado estadual da **Adesão do Maranhão (28 de julho)**, garantindo que os dias letivos não sejam contabilizados erradamente nessas datas.
 
 ---
 
