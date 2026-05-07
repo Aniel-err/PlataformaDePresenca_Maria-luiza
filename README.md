@@ -67,7 +67,7 @@ Para tornar a chamada rápida, o sistema utiliza o mouse de forma inteligente:
 ---
 
 ## 📅 Feriados Maranhenses Incluídos
-O sistema já vem configurado para ignorar os feriados nacionais e o feriado estadual da **Adesão do Maranhão (28 de julho)**, garantindo que as faltas não sejam contabilizadas erroneamente nessas datas.
+O sistema já vem configurado para ignorar os feriados nacionais e o feriado estadual da **Adesão do Maranhão (28 de julho)**, garantindo que os dias letivos não sejam contabilizados erroneamente nessas datas.
 
 ---
 
