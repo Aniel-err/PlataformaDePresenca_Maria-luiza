@@ -84,7 +84,7 @@ Para os professores que não sabem abrir o terminal, você pode facilitar a vida
 2.  Cole o seguinte código:
     ```batch
     @echo off
-    title Servidor do Diario de Classe
+    title Servidor do Diário de Classe
     echo Iniciando o sistema...
     node server.js
     pause
