@@ -22,14 +22,14 @@ Se você não é da área de tecnologia, não se preocupe! Siga estes 3 passos s
 ### 1. Instale o "Motor" (Node.js)
 O sistema precisa de um programa chamado **Node.js** para rodar. 
 * Acesse: [https://nodejs.org/](https://nodejs.org/)
-* Baixe a versão **LTS** (é a mais estável).
+* Baixe a versão **LTS mais recente** (é a mais estável).
 * Instale como qualquer outro programa (clicando em "Avançar" até o fim).
 
 ### 2. Prepare a Pasta
 * Coloque os arquivos do Diário de Classe em uma pasta de sua preferência (ex: Documentos ou Área de Trabalho).
 
 ### 3. Inicie o Sistema
-* Dentro da pasta onde estão os arquivos, procure por um arquivo chamado **`INICIAR.bat`** (ou abra o terminal e digite `node server.js`).
+* Dentro da pasta onde estão os arquivos, procure por um arquivo chamado **`INICIAR.bat`**.
 * Uma tela preta aparecerá dizendo: `✅ Banco de dados SQLite conectado!`. **Não feche essa tela enquanto estiver usando o sistema.**
 
 ### 4. Abra o Diário
@@ -67,7 +67,7 @@ Para tornar a chamada rápida, o sistema utiliza o mouse de forma inteligente:
 ---
 
 ## 📅 Feriados Maranhenses Inclusos
-O sistema já vem configurado para ignorar os feriados nacionais e o feriado estadual da **Adesão do Maranhão (28 de Julho)**, garantindo que as faltas não sejam contabilizadas erroneamente nessas datas.
+O sistema já vem configurado para ignorar os feriados nacionais e o feriado estadual da **Adesão do Maranhão (28 de julho)**, garantindo que as faltas não sejam contabilizadas erroneamente nessas datas.
 
 ---
 
