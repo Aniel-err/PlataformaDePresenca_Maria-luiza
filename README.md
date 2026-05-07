@@ -29,8 +29,8 @@ O sistema precisa de um programa chamado **Node.js** para rodar.
 * Coloque os arquivos do Diário de Classe em uma pasta de sua preferência (ex: Documentos ou Área de Trabalho).
 
 ### 3. Inicie o Sistema
-* Dentro da pasta onde estão os arquivos, procure por um arquivo chamado **`INICIAR.bat`**.
-* Uma tela preta aparecerá dizendo: `✅ Banco de dados SQLite conectado!`. **Não feche essa tela enquanto estiver usando o sistema.**
+* Dentro da pasta onde estão os arquivos, procure por um arquivo chamado **`INICIAR.bat`** e dê um duplo clique para executá-lo.
+* Uma tela preta aparecerá com a mensagem de inicialização do servidor (por exemplo: `✅ Banco de dados SQLite conectado!`). **Não feche essa tela enquanto estiver usando o sistema.**
 
 ### 4. Abra o Diário
 * Agora, basta abrir o arquivo **`index.html`** no seu navegador (Chrome, Edge ou Firefox).
@@ -66,7 +66,7 @@ Para tornar a chamada rápida, o sistema utiliza o mouse de forma inteligente:
 
 ---
 
-## 📅 Feriados Maranhenses Inclusos
+## 📅 Feriados Maranhenses Incluídos
 O sistema já vem configurado para ignorar os feriados nacionais e o feriado estadual da **Adesão do Maranhão (28 de julho)**, garantindo que as faltas não sejam contabilizadas erroneamente nessas datas.
 
 ---
